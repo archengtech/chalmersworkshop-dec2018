@@ -1,6 +1,6 @@
 # Chalmers Workshop December 2018
 
-This is the central repository of information and data for the workshop conducted at Chalmers University of Technology, Gothenburg, Sweden in December 2018 with the theme *The Asymptotic Gridshell.* The result of the workshop was a 11 x 11 meter large structure made of actively bent plywood laths:
+This is the central repository of information and data for the workshop conducted at Chalmers University of Technology, Gothenburg, Sweden in December 2018 with the theme *The Asymptotic Gridshell.* The result of the workshop was a 8 x 9 x 4 meter (b x w x h) large structure made of actively bent plywood laths:
 
 ![completed structure](https://github.com/archengtech/chalmersworkshop-dec2018/blob/master/images/pic_01.jpg)
 
